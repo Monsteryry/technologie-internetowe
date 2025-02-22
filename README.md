@@ -1,1 +1,1 @@
-# technologie-mobilne
+# technologie-internetowe
